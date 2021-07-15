@@ -1,6 +1,7 @@
-# Andrea Wöger / Fullstack Developer
+# Andrea Wöger / Frontend Developer
 
 Hi there 👋
+
 😄 I'm Andrea and I'm based in Vienna, Austria.
 
 ✨ I’m currently participating in the UpLeveled Fullstack Web Development Bootcamp.
